@@ -1,1 +1,2 @@
 Première ligne avant le commit
+Deuxième ligne avant le commit
